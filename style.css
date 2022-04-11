@@ -1,0 +1,11 @@
+.test_image_result{
+background-color: grey;
+text-align: center;
+font-size: 50;
+}
+h5{
+    background-color: white;
+    color: black;
+    font-size: 30;
+    border-radius: 20;
+}
